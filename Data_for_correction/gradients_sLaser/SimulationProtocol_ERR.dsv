@@ -1,0 +1,38 @@
+   
+   C:\Users\IDEAUser\AppData\Local\Temp\SequenceSimulation\2025_09_22_03_43_27\SimulationProtocol_ERR.dsv
+   
+   Created by DSP-Simulator / V4.0 - release version (Build: Jan 20 2016)
+   15:43:42 on Monday, September 22, 2025
+   
+
+= Starting protocol simulation.
+  - The protocol contains 1 event blocks.
+  - These event blocks do supply DSP instructions for approximately 0.000000.
+
+= Gradient amplitude check is active for GPA 0:
+  - Maximum allowed gradient strength in X orientation: 80.000000 mT/m
+  - Maximum allowed gradient strength in Y orientation: 80.000000 mT/m
+  - Maximum allowed gradient strength in Z orientation: 80.000000 mT/m
+
+= Gradient slew rate check is active for GPA 0:
+  - Maximum allowed slew rate in X orientation: 200.000000 mT/m/ms
+  - Maximum allowed slew rate in Y orientation: 200.000000 mT/m/ms
+  - Maximum allowed slew rate in Z orientation: 200.000000 mT/m/ms
+
+= Gradient dB/dt information for gradient 0:
+  - dBdt peak [T/s]: 73.173264 (limit 100.000000, threshold 80.000000, time 0.856910 [s], ident = ss_gzcr3)
+  - dBdt rms  [T/s]: 1.040702 (limit 56.000000, threshold 44.799999)
+
+= Sequence passed the gradient amplitude check successfully for GPA 0.
+  - The maximum allowed gradient strength has not been exceeded!
+  - The peak gradient strength in X orientation was: 22.583696 mT/m.
+  - The peak gradient strength in Y orientation was: 29.358807 mT/m.
+  - The peak gradient strength in Z orientation was: 31.136227 mT/m.
+
+= Sequence passed the gradient slew rate check successfully for GPA 0.
+  - The maximum allowed gradient slew rate has not been exceeded!
+  - The peak slew rate in X orientation was: 112.918484 mT/m/ms.
+  - The peak slew rate in Y orientation was: 146.794033 mT/m/ms.
+  - The peak slew rate in Z orientation was: 155.681181 mT/m/ms.
+
+= Simulation successfully complete

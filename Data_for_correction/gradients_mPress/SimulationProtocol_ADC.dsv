@@ -1,0 +1,64 @@
+; 
+; C:\Users\IDEAUser\AppData\Local\Temp\SequenceSimulation\2025_09_24_11_58_23\SimulationProtocol_ADC.dsv
+; 
+; Created by DSP-Simulator / V4.0 - release version (Build: Jan 20 2016)
+; 11:58:51 on Wednesday, September 24, 2025
+; 
+
+
+; This file includes the data for: ADC Signal Data
+
+
+[FILETYPE]
+FORMAT=DSV_V0100
+
+[DEFINITIONS]
+TITLE=ADC Signal Data
+SAMPLES=6414010     
+VERTUNITNAME=-
+HORIUNITNAME=µs
+HORIDELTA=1.000000
+VERTFACTOR=1000000.000000
+MAXLIMIT=1.000000e+000     
+MINLIMIT=0.000000e+000     
+DESCRIPTION=ADC-Signal (NCO 0, 1H, 123.2 MHz)        
+NUCLEUS=1H                                           
+NOMINALFREQUENCY=123200000                           
+
+[FRAME]
+
+
+[VALUES]
+0
+0
+2998
+1000000
+0
+0
+515997
+-1000000
+0
+0
+2379007
+1000000
+0
+0
+515997
+-1000000
+0
+0
+983997
+1000000
+0
+0
+515997
+-1000000
+0
+0
+983997
+1000000
+0
+0
+515997
+
+;  end of graphic data file

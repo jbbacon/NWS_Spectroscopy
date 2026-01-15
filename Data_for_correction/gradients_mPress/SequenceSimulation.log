@@ -1,0 +1,77 @@
+Simulation started. PID: 13968
+Log to: C:\Users\IDEAUser\AppData\Local\Temp\SequenceSimulation\2025_09_24_11_58_23\SequenceSimulation.log
+
+
+MriSeqSimDSPClient.exe   (Build: Jan 21 2016) - V03.01
+
+Simulator DLL:   4.0 - release version (Build: Jan 20 2016)
+
+
+
+This simulator provides the following options:
+
+GPO GPP GPN AD2 NC2 D0X D0Y D0Z GSR GAM M0X M0Y M0Z M1X M1Y M1Z MXX 
+
+MXY MXZ PXA PYA PZA PXB PYB PZB PXC PYC PZC SFX SFY SFZ SAP SLL SLT 
+
+RFP BON BA0 BB0 BC0 BOS BD0 BE0 BF0 PRF PR2 
+
+
+
+Active settings: [  i0] [RFD+] [MXX+] [ctx:PAC_2] 
+
+
+
+[System type: PCIe]
+
+ 2025/09/24-11:58:41.455138 13968 MriSeqSimDSPClient.exe 8796 Thread-8796 -1 Info 0 MrPMUSrv:PMUSerIF PMUSerIF.cpp:120 PMUServerIF::PMUServerIF PMUSerIF::PMUServerIF Interface Testmode is ON
+2025-09-24 11:58:50.838 AdjServerIFImpl::AdjServerIFImpl(): Adjustment server TCP/IP configuration is localhost:3101,3102,3103
+2025/09/24-11:58:50.856503 RFSWDInterfaceImpl::RFSWDInterfaceImpl +++++ Process: 13968, Thread: 8796
+2025-09-24 11:58:50.900 AdjCoilSelect::get(): No extension of coil select needed for SystemBC or LcTx
+sl_aqu_fill_before        = 70
+sl_aqu_fill_before        = 70
+sl_aqu_fill_before        = 70
+sl_aqu_fill_before        = 70
+sl_aqu_fill_before        = 70
+   
+   C:\Users\IDEAUser\AppData\Local\Temp\SequenceSimulation\2025_09_24_11_58_23\SimulationProtocol_ERR.dsv
+   
+   Created by DSP-Simulator / V4.0 - release version (Build: Jan 20 2016)
+   11:58:39 on Wednesday, September 24, 2025
+   
+
+= Starting protocol simulation.
+  - The protocol contains 1 event blocks.
+  - These event blocks do supply DSP instructions for approximately 0.000000.
+
+= Gradient amplitude check is active for GPA 0:
+  - Maximum allowed gradient strength in X orientation: 80.000000 mT/m
+  - Maximum allowed gradient strength in Y orientation: 80.000000 mT/m
+  - Maximum allowed gradient strength in Z orientation: 80.000000 mT/m
+
+= Gradient slew rate check is active for GPA 0:
+  - Maximum allowed slew rate in X orientation: 200.000000 mT/m/ms
+  - Maximum allowed slew rate in Y orientation: 200.000000 mT/m/ms
+  - Maximum allowed slew rate in Z orientation: 200.000000 mT/m/ms
+
+= Gradient dB/dt information for gradient 0:
+  - dBdt peak [T/s]: 50.079720 (limit 100.000000, threshold 80.000000, time 2.840450 [s], ident = sp1)
+  - dBdt rms  [T/s]: 1.544614 (limit 56.000000, threshold 44.799999)
+
+= Sequence passed the gradient amplitude check successfully for GPA 0.
+  - The maximum allowed gradient strength has not been exceeded!
+  - The peak gradient strength in X orientation was: 21.000000 mT/m.
+  - The peak gradient strength in Y orientation was: 20.000000 mT/m.
+  - The peak gradient strength in Z orientation was: 29.402203 mT/m.
+
+= Sequence passed the gradient slew rate check successfully for GPA 0.
+  - The maximum allowed gradient slew rate has not been exceeded!
+  - The peak slew rate in X orientation was: 87.500000 mT/m/ms.
+  - The peak slew rate in Y orientation was: 75.413179 mT/m/ms.
+  - The peak slew rate in Z orientation was: 122.509170 mT/m/ms.
+
+= Simulation successfully complete
+
+Errors: 0  ()                                               
+
+Simulation finished. Results and logs can be found at: C:\Users\IDEAUser\AppData\Local\Temp\SequenceSimulation\2025_09_24_11_58_23
