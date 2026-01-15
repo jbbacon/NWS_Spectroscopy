@@ -23,7 +23,7 @@ GIRF correction of the non-water-suppressed spectroscopy data is performed using
 - `sLASER_GIRF_correction.ipynb`
 - `mPRESS_GIRF_correction.ipynb`
 
-Preprocessed spectroscopy data for one representative participant is provided in 
+Preprocessed data for one representative participant is provided in 
 - `./Data_for_correction/sLaser_preproc`
 - `./Data_for_correction/sLaser_preproc`
 
@@ -31,7 +31,7 @@ Corresponding input gradient waveforms require for the GIRF Correction are provi
 - `./Data_for_correction/gradients_sLaser`
 - `./Data_for_correction/gradients_mPRESS`
 
-GIRF measurments are avialable in 
+GIRF measurments are available in 
 - `./GIRF_measurements`
 
 ---
