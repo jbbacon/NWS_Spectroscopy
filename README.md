@@ -45,4 +45,4 @@ Modelling of the water peak and fitting of the underlying metabolites is perform
 GIRF-corrected data is available for all participants in
 - `./Data_for_fitting`
 
-Final processed outputs used for figures are optionally output to ./Data_for_plotting. This step has been completed in full for one participant. 
+Final processed outputs used for figures are optionally output to `./Data_for_plotting`. This step has been completed in full for one participant. 
