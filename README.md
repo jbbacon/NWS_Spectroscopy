@@ -3,7 +3,7 @@ Code and Example Data for GIRF-Corrected Non-Water-Suppressed Single-Voxel-Spect
 
 ## Requirements
 
-This method requires measurement of the Gradient Impulse Response Function (GIRF). Code for measurment and calcualtion of the GIRF is available at https://github.com/jbbacon/GIRF_PE_Python.
+This method requires measurement of the Gradient Impulse Response Function (GIRF). Code for measurement and calculation of the GIRF is available at https://github.com/jbbacon/GIRF_PE_Python.
 
 ## Contents and Usage
 
