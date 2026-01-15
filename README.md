@@ -10,7 +10,7 @@ This method requires measurement of the Gradient Impulse Response Function (GIRF
 ### **Preprocessing**
 1. Process raw TWIX data using spec2nii (https://github.com/wtclarke/spec2nii)
 
-2. Preprocessing is performed using either `sLaser_preproc.ipynb` or `mPress_preproc.ipynb`, depending on the specific spectroscopy acquisiton.
+2. Preprocessing is performed using either `sLaser_preproc.ipynb` or `mPress_preproc.ipynb`, depending on the acquisiton.
 These notebooks implement standard preprocessing steps; coil compression, alignment, averaging, frequency correction and phase correction.
 
 Raw data is not made available for these steps.
