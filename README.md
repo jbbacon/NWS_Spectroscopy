@@ -15,6 +15,8 @@ These notebooks implement standard preprocessing steps; coil compression, alignm
 
 Raw data is not made available for these steps.
 
+---
+
 **GIRF Correction**
 
 GIRF correction of the non-water-suppressed spectroscopy data is performed using sLASER_GIRF_correction.ipynb and mPRESS_GIRF_correction.ipynb.
@@ -24,6 +26,8 @@ Preprocessed spectroscopy data for one representative participant is provided in
 Corresponding input gradient waveforms require for the GIRF Correction are provided in ./Data_for_correction/gradients_sLaser and ./Data_for_correction/gradients_mPRESS.
 
 GIRF measurments are avialable in ./GIRF_measurements
+
+---
 
 **Water Modelling and Data Fitting**
 
