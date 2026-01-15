@@ -1,6 +1,7 @@
 ## Non-Water-Suppressed Spectroscopy
 Code and Example Data for GIRF-Corrected Non-Water-Suppressed Single-Voxel-Spectroscopy
 
+[![DOI](https://zenodo.org/badge/1135244763.svg)](https://doi.org/10.5281/zenodo.18262880)
 ## Requirements
 
 This method requires measurement of the Gradient Impulse Response Function (GIRF). Code for measurement and calculation of the GIRF is available at https://github.com/jbbacon/GIRF_PE_Python.
