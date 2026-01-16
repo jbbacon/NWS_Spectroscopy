@@ -6,6 +6,7 @@ Code and Example Data for GIRF-Corrected Non-Water-Suppressed Single-Voxel-Spect
 
 This method requires measurement of the Gradient Impulse Response Function (GIRF). Code for measurement and calculation of the GIRF is available at https://github.com/jbbacon/GIRF_PE_Python.
 
+FSL_MRS version 2.4.9 was used in this work. See install here https://github.com/wtclarke/fsl_mrs.
 ## Contents and Usage
 
 ### **Preprocessing**
