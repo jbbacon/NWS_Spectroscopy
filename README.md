@@ -28,7 +28,7 @@ conda install -c conda-forge nbformat ipykernel ipympl ipywidgets
 
 ### **Preprocessing**
 
-#### Raw data is not made available for this step.
+#### Data is not made available for this step.
 
 1. Process raw TWIX data using [spec2nii](https://github.com/wtclarke/spec2nii).
 
