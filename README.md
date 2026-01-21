@@ -25,7 +25,7 @@ conda install -c conda-forge nbformat ipykernel ipympl ipywidgets
 ```
 
 ## Contents and Usage
-
+Each notebook is self containing and can be run without requiring any local edits. The output of each notebook is the input to the following notebook as described below. Example data is provided for each stage except for preprocessing. 
 ### **Preprocessing**
 
 #### Data is not made available for this step.
