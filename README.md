@@ -1,11 +1,9 @@
 ## Non-Water-Suppressed Spectroscopy
 Code and Example Data for GIRF-Corrected Non-Water-Suppressed Single-Voxel-Spectroscopy
 
-[![DOI](https://zenodo.org/badge/1135244763.svg)](https://doi.org/10.5281/zenodo.18262880)
+**Citation**:
+J. B.Bacon, P.Jezzard, and W. T.Clarke, “MR Spectroscopy Without Water Suppression Using the Gradient Impulse Response Function,” Magnetic Resonance in Medicine (2026): 1–12, https://doi.org/10.1002/mrm.70383.
 
-Preprint: MR Spectroscopy without Water Suppression using the Gradient Impulse Response Function;
-James B Bacon, Peter Jezzard, William T Clarke;
-bioRxiv 2026.01.16.699878; doi: https://doi.org/10.64898/2026.01.16.699878
 
 ## Installation and Dependencies
 
